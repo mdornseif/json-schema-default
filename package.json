@@ -7,8 +7,12 @@
   "module": "build/module/index.js",
   "repository": "https://github.com/mdornseif/json-schema-default",
   "license": "MIT",
-  "keywords": [],
-  "scripts": {
+  "keywords": [
+    "JSON",
+    "schema",
+    "JSON-Schema",
+    "Data Generation"
+  ],   "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
     "build:module": "tsc -p tsconfig.module.json",
