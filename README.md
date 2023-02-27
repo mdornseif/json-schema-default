@@ -1,4 +1,8 @@
-[![npm version](https://badge.fury.io/js/json-schema-default.svg)](https://badge.fury.io/js/json-schema-default)
+![NPM License](https://img.shields.io/npm/l/json-schema-default)
+[![NPM Version](https://img.shields.io/npm/v/json-schema-default)](https://www.npmjs.com/package/json-schema-default)
+[![NPM Types](https://img.shields.ionpm/types/json-schema-default)](https://www.npmjs.com/package/json-schema-default)
+[![Last Commit](https://img.shields.io/github/last-commit/mdornseif/json-schema-default)](https://github.com/mdornseif/json-schema-default)
+
 
 # json-schema-default
 
@@ -35,6 +39,7 @@ const finalData = merge(
 
 # See also
 
+- [json-schema-empty-strings](https://github.com/romeovs/json-schema-empty-strings)
 - [empty-schema](https://github.com/slurmulon/empty-schema)
 - [json-schema-empty](https://github.com/romeovs/json-schema-empty)
 - [json-schema-empty-strings](https://www.npmjs.com/package/json-schema-empty-strings/)
