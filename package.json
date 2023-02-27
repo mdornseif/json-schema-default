@@ -1,6 +1,6 @@
 {
   "name": "json-schema-default",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate an Object based of default values inside a JSON-Schema.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -12,7 +12,8 @@
     "schema",
     "JSON-Schema",
     "Data Generation"
-  ],   "scripts": {
+  ],
+  "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
     "build:module": "tsc -p tsconfig.module.json",
