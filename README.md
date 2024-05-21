@@ -40,9 +40,9 @@ const finalData = merge(
 # See also
 
 - [json-schema-empty-strings](https://github.com/romeovs/json-schema-empty-strings)
+- [json-schema-empty-arrays](https://github.com/mdornseif/json-schema-empty-arrays)
 - [empty-schema](https://github.com/slurmulon/empty-schema)
 - [json-schema-empty](https://github.com/romeovs/json-schema-empty)
-- [json-schema-empty-strings](https://www.npmjs.com/package/json-schema-empty-strings/)
 - [json-schema-default](https://www.npmjs.com/package/json-schema-default)
 - [json-schema-fill-defaults](https://www.npmjs.com/package/json-schema-fill-defaults)
 - [json-from-default-schema](https://www.npmjs.com/package/json-from-default-schema)
