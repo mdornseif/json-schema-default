@@ -46,6 +46,7 @@ const finalData = merge(
 - [json-schema-default](https://www.npmjs.com/package/json-schema-default)
 - [json-schema-fill-defaults](https://www.npmjs.com/package/json-schema-fill-defaults)
 - [json-from-default-schema](https://www.npmjs.com/package/json-from-default-schema)
+- [@nodecg/json-schema-defaults](https://www.npmjs.com/package/@nodecg/json-schema-defaults)
 - [json-schema-default-instance](https://www.npmjs.com/package/json-schema-default-instance)
 - [minimal-schema](https://github.com/tyv/minimal-schema)
 - [AJV](https://ajv.js.org/guide/modifying-data.html#assigning-defaults)
