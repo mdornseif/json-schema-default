@@ -32,14 +32,14 @@ const finalData = merge({}, jsonEmptyStrings(schema), jsonDefault(schema), input
 
 # See also
 
+- [AJV](https://ajv.js.org/guide/modifying-data.html#assigning-defaults)
 - [json-schema-empty-strings](https://github.com/romeovs/json-schema-empty-strings)
 - [json-schema-empty-arrays](https://github.com/mdornseif/json-schema-empty-arrays)
 - [empty-schema](https://github.com/slurmulon/empty-schema)
 - [json-schema-empty](https://github.com/romeovs/json-schema-empty)
 - [json-schema-default](https://www.npmjs.com/package/json-schema-default)
 - [json-schema-fill-defaults](https://www.npmjs.com/package/json-schema-fill-defaults)
-- [json-from-default-schema](https://www.npmjs.com/package/json-from-default-schema)
 - [@nodecg/json-schema-defaults](https://www.npmjs.com/package/@nodecg/json-schema-defaults)
-- [json-schema-default-instance](https://www.npmjs.com/package/json-schema-default-instance)
 - [minimal-schema](https://github.com/tyv/minimal-schema)
-- [AJV](https://ajv.js.org/guide/modifying-data.html#assigning-defaults)
+- [json-from-default-schema](https://www.npmjs.com/package/json-from-default-schema) (CJS)
+- [json-schema-default-instance](https://www.npmjs.com/package/json-schema-default-instance) (CJS)
