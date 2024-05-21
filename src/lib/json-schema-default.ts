@@ -21,10 +21,6 @@ export function jsonDefault(schema: JSONSchema7): unknown {
       indexProperty
     ) => {
       if (jsonPtr.startsWith('/properties/')) {
-        if (sch.type === 'object' && indexProperty) {
-          ret[indexProperty] = {};
-        }
-
         let destination = ret;
         if (parentJsonPtr) {
           // um Nesting korrekt abzubilden müssten wir jsonPtr auseindander pflücken
