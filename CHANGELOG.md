@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/mdornseif/json-schema-default/compare/v1.0.1...v1.0.2) (2024-05-21)
+
+### Bug Fixes
+
+- deployment / versioning ([8fa8a97](https://github.com/mdornseif/json-schema-default/commit/8fa8a97b2fa5359abb299759447fbd8f8492656a))
+
 ## [1.0.1](https://github.com/mdornseif/json-schema-default/compare/v1.0.0...v1.0.1) (2024-05-21)
 
 ### Bug Fixes
