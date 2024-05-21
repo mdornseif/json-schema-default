@@ -1,6 +1,6 @@
 {
   "name": "json-schema-default",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Generate an Object based of default values inside a JSON-Schema.",
   "keywords": [
     "JSON",
